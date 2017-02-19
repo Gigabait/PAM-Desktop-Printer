@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Pam Desktop Printers"
+	"version"			"1.0"
+	"up_date"			"12/06/2016"
+	"author_name"			"Pat & Mikael"
+	"author_email"			"patrickratzow@hotmail.dk"
+	"author_url"			"xanathroleplay.net"
+	"info"				"A retarded idea, terribly executed. #JustPatThings"
+	"override"			"0"
+}

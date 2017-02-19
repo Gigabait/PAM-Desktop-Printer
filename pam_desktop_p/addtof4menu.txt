@@ -1,0 +1,82 @@
+DarkRP.createEntity("Desktop Printer", {
+	ent = "pat_desktop_printer",
+	model = "models/props_c17/consolebox01a.mdl",
+	price = 500,
+	max = 2,
+	cmd = "pat_desktop_printer",
+})
+
+DarkRP.createEntity("CPU - Intel i5-4460", {
+	ent = "pat_desktop_upgrades_cpu_intel_4460",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 1500,
+	max = 1,
+	cmd = "pat_desktop_upgrades_cpu_intel_4460",
+})
+
+DarkRP.createEntity("CPU - Intel i7-4790", {
+	ent = "pat_desktop_upgrades_cpu_intel_4790",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 4500,
+	max = 1,
+	cmd = "pat_desktop_upgrades_cpu_intel_4790",
+})
+
+DarkRP.createEntity("GPU - Geforce GTX 980", {
+	ent = "pat_desktop_upgrades_gpu_geforce_980",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 2500,
+	max = 1,
+	cmd = "pat_desktop_upgrades_gpu_geforce_980",
+})
+
+
+DarkRP.createEntity("GPU - Geforce GTX 1080", {
+	ent = "pat_desktop_upgrades_gpu_geforce_1080",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 3500,
+	max = 1,
+	cmd = "pat_desktop_upgrades_gpu_geforce_1080",
+})
+
+
+DarkRP.createEntity("HDD - 1000 GB", {
+	ent = "pat_desktop_upgrades_hdd_wd_1tb",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 800,
+	max = 1,
+	cmd = "pat_desktop_upgrades_hdd_wd_1tb",
+})
+
+DarkRP.createEntity("HDD - 3000 GB", {
+	ent = "pat_desktop_upgrades_hdd_wd_3tb",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 2000,
+	max = 1,
+	cmd = "pat_desktop_upgrades_hdd_wd_3tb",
+})
+
+DarkRP.createEntity("Motherboard - Republic of Gamers Ultimate", {
+	ent = "pat_desktop_upgrades_mobo_rog",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 6000,
+	max = 1,
+	cmd = "pat_desktop_upgrades_mobo_rog",
+})
+
+
+DarkRP.createEntity("RAM - HyperX 4 GB", {
+	ent = "pat_desktop_upgrades_ram_hyperx_4gb",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 400,
+	max = 1,
+	cmd = "pat_desktop_upgrades_ram_hyperx_4gb",
+})
+
+DarkRP.createEntity("RAM - FuryX 8 GB", {
+	ent = "pat_desktop_upgrades_ram_furyx_8gb",
+	model = "models/props_c17/consolebox03a.mdl",
+	price = 700,
+	max = 1,
+	cmd = "pat_desktop_upgrades_ram_furyx_8gb",
+})
